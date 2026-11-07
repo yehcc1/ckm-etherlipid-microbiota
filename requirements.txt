@@ -1,0 +1,9 @@
+# Python 3.13.16; Node.js 22.22.0 (XA_tables_docx_v65.js only; npm package "docx")
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+statsmodels==0.15.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+openpyxl==3.1.5
+python-docx==1.2.0
